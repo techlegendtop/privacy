@@ -1,0 +1,10 @@
+[
+  {
+    "id": "welcome-0117",
+    "kind": "product",
+    "zhTitle": "截图完成后，先确认保存结果",
+    "enTitle": "Check your save result",
+    "zhBody": "自动保存失败时，可以在“待保存／找回截图”中补存。临时截图保留10天。",
+    "enBody": "If saving fails, recover your screenshot from Pending / Recover captures. Temporary captures are kept for 10 days."
+  }
+]
